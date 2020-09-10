@@ -1,3 +1,8 @@
 Mot de passe satagroup.mg : (compte) codesatagroup&2608 , fandrianarisata2@gmail.com
 login : https://www.madanet.info/domaines/clientarea.php
 
+// ajouter une compte fTP suppléméntaire
+nom du compte FTP : appligroupe
+Répertoir principal : Appligroupe/
+mot de passe : codeAppligroupe&123
+
