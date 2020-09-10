@@ -6,3 +6,8 @@ nom du compte FTP : appgroupe
 Répertoir principal : Appligroupe/
 mot de passe : codeAppligroupe&123
 
+// nom de la bbd mr nar : satagroup_mr_nar
+site associé : satagroup.mg
+nom d'utilisateur de base de donnée : sata_group_user
+mot de passe : codeAppligroupe&123
+
