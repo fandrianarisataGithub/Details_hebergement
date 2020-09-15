@@ -6,8 +6,8 @@ nom du compte FTP : satagroup_nar
 Répertoir principal : mr_nar/
 mot de passe : codesatagroupNar2020
 
-// nom de la bbd mr nar : satagroup_mr_nar
+// nom de la bbd mr nar : satagroup_mr_nar2
 site associé : satagroup.mg
 nom d'utilisateur de base de donnée : satagroup_user
-mot de passe : sataGroupPassword
+mot de passe : sataGroupPassword2020
 
