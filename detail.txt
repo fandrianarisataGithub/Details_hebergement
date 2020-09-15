@@ -11,3 +11,7 @@ site associé : satagroup.mg
 nom d'utilisateur de base de donnée : satagroup_user
 mot de passe : sataGroupPassword2020
 
+Plesk:
+nom d'utilisateur : satagroup
+email : fandrianarisata2@gmail.com
+mot de passe : satagroupcodesatagroup&2608
