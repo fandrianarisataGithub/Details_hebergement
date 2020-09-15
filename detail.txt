@@ -14,4 +14,4 @@ mot de passe : sataGroupPassword2020
 Plesk:
 nom d'utilisateur : satagroup
 email : fandrianarisata2@gmail.com
-mot de passe : satagroupcodesatagroup&2608
+mot de passe : codePlesk&2020
