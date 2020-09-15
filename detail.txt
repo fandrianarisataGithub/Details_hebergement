@@ -3,7 +3,7 @@ login : https://www.madanet.info/domaines/clientarea.php
 
 // ajouter une compte fTP suppléméntaire
 nom du compte FTP : satagroup_nar
-Répertoir principal : Appligroupe/
+Répertoir principal : mr_nar/
 mot de passe : codesatagroupNar2020
 
 // nom de la bbd mr nar : satagroup_mr_nar
