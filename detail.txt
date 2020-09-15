@@ -9,5 +9,5 @@ mot de passe : codesatagroupNar2020
 // nom de la bbd mr nar : satagroup_mr_nar
 site associé : satagroup.mg
 nom d'utilisateur de base de donnée : sata_group_user
-mot de passe : codeAppligroupe&123
+mot de passe : sataGroupPassword
 
