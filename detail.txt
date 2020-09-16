@@ -15,3 +15,7 @@ Plesk:
 nom d'utilisateur : satagroup
 email : fandrianarisata2@gmail.com
 mot de passe : codePlesk&2020
+
+Fijerena hoe publier ve le nom de domaine sa tsia
+https://mxtoolbox.com/SuperTool.aspx?action=mx%3asatagroup.mg&run=toolpage
+
